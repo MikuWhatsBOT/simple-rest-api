@@ -28,6 +28,12 @@ var users = [
 		"username": "shanks",
 		"name": "'Red-Haired' Shanks",
 		"position": "The 4 Emperors"
+	},
+	{
+		"id": 5,
+		"username": "Naruto",
+		"name": "'Uzumaki Naruto",
+		"position": "7th Hokage"
 	}
 ];
 
